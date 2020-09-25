@@ -41,7 +41,7 @@
   <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabe-martins&&show_icons=true&theme=dark" alt="gabe's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabe-martins&theme=dark&layout=compact" alt="gabe's Github Stats">
 </p>
 
 <div align="center">
