@@ -4,27 +4,26 @@
 
 ## Ask me about :computer:
 
-- **Competitive Programming**
-  - C#
-  - C++
-  - ASP .NET
-
 - **Web Development**
   - Javascript (HTML, CSS) :white_check_mark:
   - Typescript
+
+- **Frontend**
   - React ⚛️
   - React Native
+  
+- **Backend**
+  - NodeJS
   - Express
   - AdonisJS
-  - NodeJS
-
+  
 - **Databases**
   - MongoDB
   - PostegreSQL
   - MySQL
 
 - **Shell Scripting**
-- 
+
 <a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
