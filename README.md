@@ -24,7 +24,7 @@
   - MySQL
 
 - **Shell Scripting**
-
+- 
 <a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
@@ -38,9 +38,10 @@
 - **Oracle SQL**
 - **Next JS**
   <br/>
+  <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabe-martins&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabe-martins&&show_icons=true&theme=dark" alt="gabe's Github Stats">
 </p>
 
 <div align="center">
