@@ -5,8 +5,9 @@
 ## Ask me about :computer:
 
 - **Web Development**
-  - Javascript (HTML, CSS) :white_check_mark:
+  - Javascript 
   - Typescript
+  - HTML, CSS :white_check_mark:
 
 - **Frontend**
   - React ⚛️
