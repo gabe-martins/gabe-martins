@@ -4,20 +4,20 @@
 
 ## Ask me about :computer:
 
-- **Web Development**
+- **Programming Languages**
   - Javascript 
   - Typescript
-  - HTML, CSS :white_check_mark:
-  - React ⚛️
-  - React Native
-  - NodeJS
-  - Express
-  - AdonisJS
+    - React 
+    - React Native
+    - NodeJS
+   - Python
+   - C#
   
 - **Databases**
   - MongoDB
   - PostegreSQL
   - MySQL
+  - SQLServer
 
 - **Shell Scripting**
 
@@ -29,10 +29,14 @@
 
 <br/><br/>
 
+## Others Skills
+  - Power BI
+  - DAX
+
 ## I’m currently learning ...
 
 - **Oracle SQL**
-- **Next JS**
+- **Machine Learning**
   <br/>
   <br/>
 
