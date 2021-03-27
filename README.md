@@ -1,6 +1,6 @@
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> -->
 
-<em>I am a 4th year student of Information System at <a href="https://www.unifoa.edu.br/">UniFOA VR</a>, and influenced by my family I started to enjoy technology and development so I have been trying to learn more and more.</em> <br/>
+<em>I am a 4th year student of Information System at <a href="https://www.unifoa.edu.br/">UniFOA VR</a>, and influenced by my family I started to enjoy technology and development so I have been trying to learn more and more, working now with data analysis, creating dashboards and data bases.</em> <br/>
 
 ## Ask me about :computer:
 
@@ -26,9 +26,7 @@
 <a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
 
 <a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
-
-<br/><br/>
-
+<br/>
 ## Others Skills
   - Power BI
   - DAX
