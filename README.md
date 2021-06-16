@@ -5,13 +5,11 @@
 ## Ask me about :computer:
 
 - **Programming Languages**
+  - Python
   - Javascript 
-  - Typescript
     - React 
     - React Native
     - NodeJS
-   - Python
-   - C#
   
 - **Databases**
   - MongoDB
@@ -30,6 +28,7 @@
 ## Others Skills
   - Power BI
   - DAX
+  - M
 
 ## I’m currently learning ...
 
