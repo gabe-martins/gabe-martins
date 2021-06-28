@@ -35,7 +35,7 @@
   <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabe-martins&theme=dark&layout=compact" alt="gabe's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-martins&layout=compact" alt="gabe's Github Stats">
 </p>
 
 <div align="center">
@@ -48,15 +48,16 @@
  <a href="https://www.instagram.com/gabe_a_martinz/" target="blank">
   <img align="center" alt="gabe's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <!-- <a href="https://twitter.com/gabe2107" target="blank">
+ <a href="https://twitter.com/gabe_a_martinz" target="blank">
   <img align="center" alt="gabe's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://medium.com/@gaberana2107" target="blank">
+ <!--<a href="https://medium.com/@gaberana2107" target="blank">
   <img align="center" alt="gabe's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a>  -->
   <br/>
 
 </p>
-<br/>
+<!--<a href=""><img alt="Gabe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gabe-martins&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br/>-->
 
 By [gabe-martins](https://github.com/gabe-martins)
