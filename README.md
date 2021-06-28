@@ -7,15 +7,12 @@
 - **Programming Languages**
   - Python
   - Javascript 
-    - React 
-    - React Native
-    - NodeJS
+  - C++/C#
   
 - **Databases**
-  - MongoDB
-  - PostegreSQL
-  - MySQL
   - SQLServer
+  - PostgreSQL
+  - MongoDB
 
 - **Shell Scripting**
 
@@ -32,8 +29,8 @@
 
 ## I’m currently learning ...
 
-- **Oracle SQL**
 - **Machine Learning**
+- **R**
   <br/>
   <br/>
 
