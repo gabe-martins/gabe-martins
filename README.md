@@ -25,15 +25,14 @@
   - MySQL
   - MongoDB
 
-<br/>
-## Others Skills
+- **Others Skills**
   - Power BI
   - DAX
   - M
   - Heroku
   - Firebase
 
-## I’m currently learning ...
+## I’m currently learning ... 
 
 - **Machine Learning**
 - **R**
