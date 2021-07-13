@@ -1,31 +1,37 @@
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> -->
 
-<em>I am a 4th year student of Information System at <a href="https://www.unifoa.edu.br/">UniFOA VR</a>, and influenced by my family I started to enjoy technology and development so I have been trying to learn more and more, working now with data analysis, creating dashboards and data bases.</em> <br/>
+<h1> Gabriel Martins </h1>
+
+<p>I am currently a Data Analyst at <a href="https://www.morningstar.com.br/"> Morning Star Consulting </a>, working in the process of collecting, transforming and publishing our clients' data on a dashboard. Finishing the last year of the Information System course at <a href="https://www.unifoa.edu.br/"> UniFOA VR </a>, influenced by my family learning computer.</p>
 
 ## Ask me about :computer:
 
 - **Programming Languages**
   - Python
+    - Pandas
+    - Numpay
+    - Pyspark
+    - Scikit Learn
+    - Tensor Flow
   - Javascript 
-  - C++/C#
+    - NodeJS
+    - React
+    - React Native
   
 - **Databases**
-  - SQLServer
-  - PostgreSQL
+  - SQL Server
+  - Oracle SQL
+  - Postgre SQL
+  - MySQL
   - MongoDB
 
-- **Shell Scripting**
-
-<a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
-<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
-
-<a href="https://www.heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
 <br/>
 ## Others Skills
   - Power BI
   - DAX
   - M
+  - Heroku
+  - Firebase
 
 ## I’m currently learning ...
 
