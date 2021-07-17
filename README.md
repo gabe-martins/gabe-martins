@@ -40,6 +40,34 @@
 - **R**
   <br/>
   <br/>
+  
+## Some project
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td>Projeto</td>
+      <td>Seguimento</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <a href="https://github.com/gabe-martins/Python-Data-Visualization/blob/main/ECommerce/E_Commerce.ipynb"
+        rel="noopener noreferrer"> E-Commerce Project</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-Data%20Science-blue" alt="Data Science"> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/gabe-martins/Python-Data-Visualization/blob/main/HeartAttack/HeartAttackPrediction.ipynb"
+          rel="noopener noreferrer"> Heart Attack Prediction</a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-Machine%20Learning-blue" alt="Machine Learning">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <div align="center">
@@ -60,8 +88,9 @@
  </a>  -->
   <br/>
 
+  
+  
 </p>
-<!--<a href=""><img alt="Gabe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gabe-martins&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<br/>-->
+
 
 By [gabe-martins](https://github.com/gabe-martins)
