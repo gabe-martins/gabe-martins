@@ -19,11 +19,13 @@
     - React Native
   
 - **Databases**
-  - SQL Server
-  - Oracle SQL
-  - Postgre SQL
-  - MySQL
-  - MongoDB
+  - SQL
+    - SQL Server
+    - Oracle SQL
+    - Postgre SQL
+    - MySQL
+  - NoSQL
+    - MongoDB
 
 - **Others Skills**
   - Power BI
@@ -39,9 +41,6 @@
   <br/>
   <br/>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-martins&layout=compact" alt="gabe's Github Stats">
-</p>
 
 <div align="center">
   <h3 align="center">Connect with me 🤝</h3> 
