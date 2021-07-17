@@ -54,7 +54,7 @@
       <td> <a href="https://github.com/gabe-martins/Python-Data-Visualization/blob/main/ECommerce/E_Commerce.ipynb"
         rel="noopener noreferrer"> E-Commerce Project</a></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-Data%20Science-blue" alt="Data Science"> 
+        <img src="https://img.shields.io/badge/Data%20Science-Python-blue" alt="Data Science"> 
       </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@
           rel="noopener noreferrer"> Heart Attack Prediction</a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-Machine%20Learning-blue" alt="Machine Learning">
+        <img src="https://img.shields.io/badge/Machine%20Learning-Python-blue" alt="Machine Learning">
       </td>
     </tr>
   </tbody>
