@@ -12,7 +12,6 @@
     - Numpay
     - Pyspark
     - Scikit Learn
-    - Tensor Flow
   - Javascript 
     - NodeJS
     - React
@@ -33,6 +32,7 @@
   - M
   - Heroku
   - Firebase
+  - TensorFlow
 
 ## I’m currently learning ... 
 
