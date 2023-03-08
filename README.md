@@ -2,7 +2,7 @@
 
 <h1> Gabriel Martins </h1>
 
-<p>I am currently a Data Analyst at <a href="https://www.morningstar.com.br/"> Morning Star Consulting </a>, working in the process of collecting, transforming and publishing our clients' data on a dashboard. Finishing the last year of the Information System course at <a href="https://www.unifoa.edu.br/"> UniFOA VR </a>, influenced by my family learning computer.</p>
+<p>I am currently a Data Engineer</p>
 
 ## Ask me about :computer:
 
