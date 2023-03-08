@@ -12,11 +12,7 @@
     - Numpay
     - Pyspark
     - Scikit Learn
-  - Javascript 
-    - NodeJS
-    - React
-    - React Native
-  
+
 - **Databases**
   - SQL
     - SQL Server
@@ -30,9 +26,6 @@
   - Power BI
   - DAX
   - M
-  - Heroku
-  - Firebase
-  - TensorFlow
 
 ## I’m currently learning ... 
 
