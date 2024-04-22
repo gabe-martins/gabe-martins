@@ -1,26 +1,14 @@
 <h1> Gabriel Martins </h1>
 
-<p>I am currently a Data Engineer</p>
-
 ## Ask me about :computer:
 
 - **Data Engeineer**
+  - Azure
   - Databricks
   - Pyspark
   - Airflow
   - Airbyte
   
-- **Programming Languages**
-  - Python
-  - C++ / C#
-
-- **Databases**
-  - SQL
-    - SQL Server
-    - Oracle
-  - NoSQL
-    - MongoDB
-
 <div align="center">
   <h3 align="center">Connect with me 🤝</h3> 
 </div>
