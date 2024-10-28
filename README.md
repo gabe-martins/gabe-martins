@@ -1,5 +1,7 @@
 <h1> Gabriel Martins </h1>
 
+<img src="https://raw.githubusercontent.com/gabe-martins/gabe-martins/refs/heads/master/gam-ico%201.svg" width="200px" height="200px">
+
 ## Ask me about :computer:
 
 **Platform**
